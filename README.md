@@ -3,3 +3,5 @@ My team is trying to venture into the Indian start-up ecosystem. As the data exp
 
 ### Collaborator
 Mohammed Idris
+# Collaborators
+Elvis Obeng Yeboah
