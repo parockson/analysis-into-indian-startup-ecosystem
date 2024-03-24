@@ -95,6 +95,54 @@ The above chart shows Finance as the Top Industry with the highest amount of fun
 
 The above chart shows the distribution of Stages by the amount of funding received.
 
+## DEPLOYMENT
+We attempted to profer solution to the Business questions stated in the Business Understanding section above.
+#### (1) HOW HAS THE FUNDING TREND CHANGED OVER THE YEARS?
+
+![Amount by Founding years](project/q3.jpg?raw=true "Funding Trends over Founding years")  
+
+Much of the fundings to start-ups happened in 2021, followed by 2020, then 2018 and finally in 2019. It is not surprising at all. This trend reflects the number of records available for each of those years.
+
+#### (2) WHAT IS THE DISTRIBUTION OF FUNDING RECEIVED BY INDUSTRY?
+
+![Amount by Industry](project/q2.jpg?raw=true "The distribution of funding by Industrys")  
+
+Per the Column Chart above, the bulk of funding goes to the Top Seven Industries which are Finance, Technology, Business, Food & Beverages, Health, Education, and Transport.
+
+#### (3) WHICH CITIES/REGIONS HAVE ATTRACTED THE MOST FUNDING FOR START-UPS?
+
+![Amount by HeadQuarter](project/q4.jpg?raw=true "Distribution of Funding by Cities")  
+
+The top five (5) cities that attract funding to start-ups are Mumbai, Bangalore, New Delhi, Delhi, and Pune. It is clear that locating a start-up in Mumbai would help attract more funds for the business.
+
+#### (4) WHICH CITIES/REGIONS HAVE ATTRACTED THE MOST NUMBER OF START-UPS?
+
+![Distribution of Start-ups by HeadQuarter](project/q5.jpg?raw=true "Distribution of Start-ups by Cities")  
+
+Even though Gurugram did not make the Top five cities that attract fundings for start-ups, it appeared as one of the Top five cities to attract start-ups.  
+
+#### (5) WHO ARE THE MAJOR INVESTORS IN THE ECOSYSTEM?  
+
+![Frequency of Investments by Investors](project/q6.jpg?raw=true "Top 20 Investors in the ecosystem")  
+
+The top investor in the ecosystem is Inflection  Point Ventures, with Titan Capital coming in fifth place. There seems to be some sort of level from Kalaari Capital to Chiratae Ventures. 
+
+
+#### (6) WHICH INDUSTRIES DO THE TOP THREE INVESTORS PREFER TO INVEST IN?  
+
+![Top 3 industries invested in by Inflection Point Capital](project/q7_1.jpg?raw=true "Top 3 industries invested in by Inflection Point Capital")
+
+The Bar Chart above shows that Inflection Point Capital prefers to invest in start-ups that are found in the Technology, Business, and Education Industries.  
+
+![Top 3 industries invested in by Venture Catalysts](project/q7_3.jpg?raw=true "Top 3 industries invested in by Venture Catalysts")  
+
+Venture Catalysts prefers to invest in start-ups that are associated with the Food & Beverages, Business, and Education industries.
+
+![Top 3 industries invested in by Mumbai Angels Network](project/q7_2.jpg?raw=true "Top 3 industries invested in by Mumbai Angels Network") 
+
+Start-ups that venture into the Transport, Hospitality, and Education industries are favored by Mumbai Angels Network.
+
+
 
 
 # CONTRIBUTORS
@@ -105,4 +153,4 @@ This is an LP1 project completed by
 - [Elvis Obeng](https://github.com/mabrony)
 - Mohammed Idris 
 - [Celestine Jerop Kaplelach](https://github.com/cjerop)
-- Andy Konney
+- [Andy Konney](https://github.com/drewmacony)
