@@ -78,6 +78,14 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 
 
 (ii) BIVARIATE ANALYSIS
+We looked into the relationships that exists between some select categorical and numerical variables and present our findings below  
+
+![Main Sector vs Amount](project/top_sector_with_highest_funding?raw=true "Top Sectors by Amount")  
+
+  
+  From the image above, Fintech is the Main Sector with the most fundings.  
+  
+
 
 
 
@@ -85,7 +93,7 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 
 CONTRIBUTORS
 
-This is an LP1 project completed by
+This is an LP1 project completed by  
 [Prince Acquah Rockson](https://github.com/parockson)
 [Etebom Ntuk](https://github.com/netebom)
 [Elvis Obeng](https://github.com/mabrony)
