@@ -142,7 +142,31 @@ Venture Catalysts prefers to invest in start-ups that are associated with the Fo
 
 Start-ups that venture into the Transport, Hospitality, and Education industries are favored by Mumbai Angels Network.
 
+## CONCLUSION
 
+Based on the analysis conducted on the Indian start-up funding ecosystem from 2018 to 2021, several key insights and trends have been uncovered.
+
+### FUNDING TRENDS:
+- The analysis revealed a significant increase in funding for start-ups over the years, with the highest amount of funding observed in 2021.
+- This trend reflects the growing interest and investment in the Indian start-up ecosystem, indicating a positive outlook for the future.
+
+### DISTRIBUTION OF FUNDING BY INDUSTRY:
+- The bulk of funding is concentrated in seven key industries: Finance, Technology, Business, Food & Beverages, Health, Education, and Transport.
+- This distribution highlights the sectors that are attracting the most investment and may present lucrative opportunities for entrepreneurs and investors alike.
+
+### CITIES ATTRACTING FUNDING:
+- Mumbai, Bangalore, New Delhi, Delhi, and Pune emerged as the top cities attracting funding for start-ups.
+- Locating a start-up in these cities may provide access to a thriving ecosystem and increased opportunities for funding and growth.
+
+### MAJOR INVESTORS:
+- Inflection Point Ventures emerged as the top investor in the ecosystem, followed by other prominent players such as Titan Capital and Kalaari Capital.
+- Understanding the preferences of these investors can help start-ups tailor their pitches and strategies to attract funding.
+
+### PREFERRED INDUSTRIES OF TOP INVESTORS:
+- Analysis of the investment preferences of top investors revealed their focus on specific industries.
+- For example, Inflection Point Ventures showed a preference for Technology, Business, and Education sectors, while Mumbai Angels Network favored Transport, Hospitality, and Education industries.
+
+Finally, the analysis provides valuable insights into the Indian start-up funding ecosystem, highlighting emerging trends, key players, and areas of opportunity. By leveraging these insights, stakeholders can make informed decisions, identify potential investment opportunities, and contribute to the continued growth and success of the Indian start-up ecosystem.
 
 
 # CONTRIBUTORS
@@ -151,6 +175,6 @@ This is an LP1 project completed by
 - [Prince Acquah Rockson](https://github.com/parockson)
 - [Etebom Ntuk](https://github.com/netebom)
 - [Elvis Obeng](https://github.com/mabrony)
-- Mohammed Idris 
+- [Mohammed Idris](https://github.com/Moidris) 
 - [Celestine Jerop Kaplelach](https://github.com/cjerop)
 - [Andy Konney](https://github.com/drewmacony)
