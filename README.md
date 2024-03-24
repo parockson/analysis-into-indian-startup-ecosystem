@@ -86,9 +86,9 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 CONTRIBUTORS
 
 This is an LP1 project completed by
-[Prince Acquah Rockson](https://github.com/parockson)
-[Etebom Ntuk](https://github.com/netebom)
-[Elvis Obeng](https://github.com/mabrony)
-Mohammed Idris
-[Celestine Jerop Kaplelach](https://github.com/cjerop)
+[Prince Acquah Rockson](https://github.com/parockson)  
+[Etebom Ntuk](https://github.com/netebom)  
+[Elvis Obeng](https://github.com/mabrony)  
+Mohammed Idris  
+[Celestine Jerop Kaplelach](https://github.com/cjerop)  
 Andy Konney
