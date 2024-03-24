@@ -47,7 +47,7 @@ We realised that this was an investigation into start-ups and so had to ensure t
 After all the cleaning exercise was satisfactorily completed, we proceeded to conduct an Exploratory Data Analysis of what was left of the dataframe (which had about 2,144 rows from the initial 2,878 rows).
 
 DATA ANALYSIS
-(I)UNIVARIATE DATA ANALYSIS
+(i) UNIVARIATE DATA ANALYSIS
 
 The univariate data analysis for numerical variables can be seen below.
 
@@ -77,12 +77,18 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 
 
 
+(ii) BIVARIATE ANALYSIS
+
+
+
+
+
 CONTRIBUTORS
 
 This is an LP1 project completed by
-Prince Acquah Rockson(https://github.com/parockson)
-Etebom Ntuk(https://github.com/netebom)
-Elvis Obeng(https://github.com/mabrony)
+[Prince Acquah Rockson](https://github.com/parockson)
+[Etebom Ntuk](https://github.com/netebom)
+[Elvis Obeng](https://github.com/mabrony)
 Mohammed Idris
-Celestine Kaplelach(https://github.com/cjerop)
+[Celestine Jerop Kaplelach](https://github.com/cjerop)
 Andy Konney
