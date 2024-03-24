@@ -1,10 +1,10 @@
-ANALYSIS OF INDIAN START-UP FUNDING ECOSYSTEM
+# ANALYSIS OF INDIAN START-UP FUNDING ECOSYSTEM
 
 This project required that we look into the Indian start-up funding ecosystem from 2018 to 2021.
 In order to conduct this analysis, data was sourced from DAP Database, OneDrive, and a github repo.
 After collecting the dataset, we had to use the Cross-Industry Standard for Data Mining (CRISP-DM) framework approach to data analysis. It involved the five-fold stages of Business Understanding, Data Understanding, Data Preparation, Analysis, and Deployment. Let’s highlight each stage in the order listed.
 
-BUSINESS UNDERSTANDING
+## BUSINESS UNDERSTANDING
 
 In the business understanding phase, we had to state out clearly what we intended to achieve.
 Per the title of the project, we’re to investigate the Indian start-up funding ecosystem to uncover as much trends that the data reveals for the start-ups and the investors alike. This meant understanding the trends funding amounts, the sectors/industries that received a greater part of the funds, and to uncover the major investors that contributed the most to start-up funding.
@@ -23,7 +23,7 @@ Below are our business questions:
 
 
 
-DATA UNDERSTANDING
+## DATA UNDERSTANDING
 
 The datasets collected held details of the start-up names, what they do, how much they received in funds, the year they received funding, the stage of their operations when they received funding, the year the start-up commenced business, the industry/sector in which they operate, their official business location, and the investors that granted these start-ups the much needed funds.
 For the 2018 dataset, some requisite columns such as sector and headquarter were incorporated into industry and location columns respectively. We had to pick out the specific details needed and thus created the headquarter and sector columns in order for the dataset to be consistent with the datasets for 2019 - 2021. Some columns such as stage and amount had their values wrongly inputed. This was noted ahead of the data cleaning exercise. Also noticed was that the amount column held values of both numerical and categorical types. There were multiple currency symbols found in the amount column. The columns for the datasets covering 2019 to 2021 were in order and so we were ready for data cleaning.
@@ -37,7 +37,7 @@ The “column10” which was found to contain null values only was dropped.
     (iv)2021 DATASET
 No cleaning exercise was conducted on the 2021 dataset.
 
-DATA PREPARATION
+## DATA PREPARATION
 
 Given the improved state of all four (4) datasets, they were all merged into one dataframe.
 Column names were changed from their previous states to “Company_Brand”. “Stage”, “Sector”, “What it does”, and “HeadQuarter”.
@@ -46,8 +46,8 @@ Other columns were cleaned in order to have them standardized, mostly by changin
 We realised that this was an investigation into start-ups and so had to ensure that the companies did reflect that status by removing companies that had been in existence for longer than 5years.
 After all the cleaning exercise was satisfactorily completed, we proceeded to conduct an Exploratory Data Analysis of what was left of the dataframe (which had about 2,144 rows from the initial 2,878 rows).
 
-DATA ANALYSIS
-(i) UNIVARIATE DATA ANALYSIS
+## DATA ANALYSIS
+### (i) UNIVARIATE DATA ANALYSIS
 
 The univariate data analysis for numerical variables can be seen below.
 
@@ -58,7 +58,6 @@ As can be seen from the image above, the Amount variable had a mean value of $10
 The Year variable had a mean of 2020, a minimum and maximum of 2018(the start year) and 2021(the end year), and a standard deviation of 1.
 
 The Years of existence variable had a mean of 3years, a minimum and maximum of 0years and 5years respectively, and a standard deviation of 1.
-
 
 The distribution of numerical variables is presented in the image below.
 
@@ -72,30 +71,22 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 
 ![Distribution of Stage](project/stage_freq.jpg?raw=true "Distribution of Stage")
 
-
 ![Distribution of HeadQuarter](project/hqtr.jpg?raw=true "Distribution of HeadQuarter")
 
 
-
-(ii) BIVARIATE ANALYSIS
+### (ii) BIVARIATE ANALYSIS
 We looked into the relationships that exists between some select categorical and numerical variables and present our findings below  
 
 ![Main Sector vs Amount](project/top_sector_with_highest_funding.jpg?raw=true "Top Sectors by Amount")  
-
   
-  From the image above, Fintech is the Main Sector with the most fundings.  
+From the image above, Fintech is the Main Sector with the most fundings.  
   
-
-![Main Sector vs Years of Existence](project/successful_start_up_sectors.jpg?raw=true "Main Sector vs Years of Existence")  
-
+![Main Sector vs Years of Existence](project/successful_start_up_sectors.jpg?raw=true "Main Sector vs Years of Existence")
 
 From the image above, we can see that the top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
 
 
-
-
-
-CONTRIBUTORS
+# CONTRIBUTORS
 
 This is an LP1 project completed by  
 - [Prince Acquah Rockson](https://github.com/parockson)
@@ -103,4 +94,4 @@ This is an LP1 project completed by
 - [Elvis Obeng](https://github.com/mabrony)
 - Mohammed Idris 
 - [Celestine Jerop Kaplelach](https://github.com/cjerop)
-Andy Konney
+- Andy Konney
