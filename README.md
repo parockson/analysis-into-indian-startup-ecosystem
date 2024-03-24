@@ -86,6 +86,17 @@ From the image above, Fintech is the Main Sector with the most fundings.
 From the image above, we can see that the top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
 
 
+![Industry by Amount](project/industry_by_highest_amount.jpg?raw=true "Industry by Amount")  
+
+The above chart shows Finance as the Top Industry with the highest amount of funding.
+
+
+![Distribution of Stages by Amount](project/top_funded_stages.jpg?raw=true "Distribution of Stages by Amount")  
+
+The above chart shows the distribution of Stages by the amount of funding received.
+
+
+
 # CONTRIBUTORS
 
 This is an LP1 project completed by  
