@@ -80,12 +80,16 @@ The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter var
 (ii) BIVARIATE ANALYSIS
 We looked into the relationships that exists between some select categorical and numerical variables and present our findings below  
 
-![Main Sector vs Amount](project/top_sector_with_highest_funding?raw=true "Top Sectors by Amount")  
+![Main Sector vs Amount](project/top_sector_with_highest_funding.jpg?raw=true "Top Sectors by Amount")  
 
   
   From the image above, Fintech is the Main Sector with the most fundings.  
   
 
+![Main Sector vs Years of Existence](project/successful_start_up_sectors.jpg?raw=true "Main Sector vs Years of Existence")  
+
+
+From the image above, we can see that the top 10 Main Sectors by Years of Existence. They include Transport & Logistics, Fintech, Food & Beverages, Healthtech, Business, E-commerce, Healthcare & Wellness, Technology, Edtech, and Finance in no particular order.
 
 
 
