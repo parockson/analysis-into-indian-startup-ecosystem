@@ -62,11 +62,27 @@ The Years of existence variable had a mean of 3years, a minimum and maximum of 0
 
 The distribution of numerical variables is presented in the image below.
 
-| ![Numerical Variables Distribution](project/numerical_dist.jpg?raw=true "Numerical Variables Distribution")
+![Numerical Variables Distribution](project/numerical_dist.jpg?raw=true "Numerical Variables Distribution")
 
-The Univariate distribution of Main Sector, Industry,  variables is presented below
+The Univariate distribution of Main Sector, Industry, Stage, and HeadQuarter variables are presented below
 
-| ![Main Sector](project/main_sector.jpg?raw=true "Main Sector")
+![Main Sector](project/main_sector.jpg?raw=true "Main Sector")
+
+![Distribution of Industry](project/industry.jpg?raw=true "Industry Distribution")
+
+![Distribution of Stage](project/stage_freq.jpg?raw=true "Distribution of Stage")
 
 
-| ![Industry Distribution](project/industry.jpg?raw=true "Industry Distribution")
+![Distribution of HeadQuarter](project/hqtr.jpg?raw=true "Distribution of HeadQuarter")
+
+
+
+CONTRIBUTORS
+
+This is an LP1 project completed by
+Prince Acquah Rockson(https://github.com/parockson)
+Etebom Ntuk(https://github.com/netebom)
+Elvis Obeng(https://github.com/mabrony)
+Mohammed Idris
+Celestine Kaplelach(https://github.com/cjerop)
+Andy Konney
