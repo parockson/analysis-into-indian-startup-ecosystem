@@ -59,3 +59,14 @@ The Year variable had a mean of 2020, a minimum and maximum of 2018(the start ye
 
 The Years of existence variable had a mean of 3years, a minimum and maximum of 0years and 5years respectively, and a standard deviation of 1.
 
+
+The distribution of numerical variables is presented in the image below.
+
+| ![Numerical Variables Distribution](project/numerical_dist.jpg?raw=true "Numerical Variables Distribution")
+
+The Univariate distribution of Main Sector, Industry,  variables is presented below
+
+| ![Main Sector](project/main_sector.jpg?raw=true "Main Sector")
+
+
+| ![Industry Distribution](project/industry.jpg?raw=true "Industry Distribution")
